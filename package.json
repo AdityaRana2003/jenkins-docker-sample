@@ -1,0 +1,10 @@
+{
+  "name": "jenkins-docker-sample",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node -e \"console.log('no tests, skipping'); process.exit(0)\""
+  },
+  "license": "MIT"
+}
